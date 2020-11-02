@@ -1,0 +1,32 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="pfeil" filename="pfeil.png" />
+    <bitmap id="pfeil0" filename="pfeil.png" />
+    <bitmap id="pfeil1" filename="pfeil45.png" />
+    <bitmap id="pfeil2" filename="pfeil90.png" />
+    <bitmap id="pfeil3" filename="pfeil135.png" />
+    <bitmap id="pfeil4" filename="pfeil180.png" />
+    <bitmap id="pfeil5" filename="pfeil225.png" />
+    <bitmap id="pfeil6" filename="pfeil270.png" />
+    <bitmap id="pfeil7" filename="pfeil315.png" />
+
+    <bitmap id="pfeilr0" filename="pfeil_r_0.png" />
+    <bitmap id="pfeilr1" filename="pfeil_r_45.png" />
+    <bitmap id="pfeilr2" filename="pfeil_r_90.png" />
+    <bitmap id="pfeilr3" filename="pfeil_r_135.png" />
+    <bitmap id="pfeilr4" filename="pfeil_r_180.png" />
+    <bitmap id="pfeilr5" filename="pfeil_r_225.png" />
+    <bitmap id="pfeilr6" filename="pfeil_r_270.png" />
+    <bitmap id="pfeilr7" filename="pfeil_r_315.png" />
+    
+    <bitmap id="pfeil2_0" filename="pfeil.bmp" />
+    <bitmap id="pfeil2_90" filename="pfeil90.bmp" />
+    <bitmap id="pfeil2_270" filename="pfeil270.bmp" />
+    <bitmap id="pfeil2_180" filename="pfeil180.bmp" />
+    
+ 	<bitmap id="pfeil2_w_0" filename="pfeil_w.png" />
+    <bitmap id="pfeil2_w_90" filename="pfeil_w_90.png" />
+    <bitmap id="pfeil2_w_270" filename="pfeil_w_270.png" />
+    <bitmap id="pfeil2_w_180" filename="pfeil_w_180.png" />
+    
+</drawables>

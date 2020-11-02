@@ -1,0 +1,14 @@
+<settings>
+
+    <setting propertyKey="@Properties.FTP" title="@Strings.ftp">
+        <settingConfig type="numeric"  />
+    </setting>
+
+     <setting propertyKey="@Properties.maxHR" title="@Strings.maxHR">
+        <settingConfig type="numeric"  />
+    </setting>
+    <setting propertyKey="@Properties.rollAvg" title="@Strings.rollAvg">
+        <settingConfig type="numeric"  />
+    </setting>
+
+</settings>

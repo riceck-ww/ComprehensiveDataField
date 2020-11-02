@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="111" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="112" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="115" pc="268435478" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="116" pc="268435497" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="117" pc="268435516" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="118" pc="268435535" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="119" pc="268435554" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="120" pc="268435580" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="121" pc="268435606" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="122" pc="268435632" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="123" pc="268435658" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="124" pc="268435684" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="125" pc="268435710" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="128" pc="268435736" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="129" pc="268435755" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="130" pc="268435774" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="131" pc="268435793" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="132" pc="268435819" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="133" pc="268435845" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="134" pc="268435871" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="135" pc="268435897" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="136" pc="268435923" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="137" pc="268435949" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="140" pc="268435975" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="141" pc="268436008" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="142" pc="268436041" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="143" pc="268436074" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="143" pc="268436081" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="144" pc="268436094" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="148" pc="268436111" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="149" pc="268436118" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="150" pc="268436157" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="151" pc="268436196" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="152" pc="268436235" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="153" pc="268436274" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="154" pc="268436313" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="155" pc="268436352" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="160" pc="268436394" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="161" pc="268436401" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="162" pc="268436440" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="163" pc="268436479" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="164" pc="268436518" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="165" pc="268436557" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="166" pc="268436596" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="167" pc="268436635" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="173" pc="268436677" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="174" pc="268436711" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="176" pc="268436753" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="177" pc="268436802" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="178" pc="268436851" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="179" pc="268436900" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="180" pc="268436949" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="181" pc="268436998" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="182" pc="268437047" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="183" pc="268437096" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="186" pc="268437145" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="187" pc="268437194" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="188" pc="268437243" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="189" pc="268437292" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="190" pc="268437341" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="191" pc="268437390" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="192" pc="268437439" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="193" pc="268437488" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="197" pc="268437537" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="198" pc="268437586" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="199" pc="268437635" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="200" pc="268437684" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="201" pc="268437733" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="202" pc="268437782" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="203" pc="268437831" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="3" lineNum="204" pc="268437880" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="4" lineNum="210" pc="268437930" symbol="onLayout"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="5" lineNum="215" pc="268437935" symbol="onTimerPause"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="5" lineNum="216" pc="268437939" symbol="onTimerPause"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="6" lineNum="219" pc="268437950" symbol="onTimerResume"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="6" lineNum="220" pc="268437954" symbol="onTimerResume"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="227" pc="268437965" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="229" pc="268437969" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="230" pc="268437976" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="230" pc="268438006" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="231" pc="268438016" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="232" pc="268438023" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="234" pc="268438083" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="234" pc="268438107" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="235" pc="268438123" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="236" pc="268438136" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="236" pc="268438160" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="237" pc="268438176" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="239" pc="268438189" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="241" pc="268438202" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="243" pc="268438221" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="245" pc="268438234" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="247" pc="268438253" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="249" pc="268438266" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="251" pc="268438312" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="253" pc="268438325" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="256" pc="268438371" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="258" pc="268438384" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="260" pc="268438403" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="262" pc="268438416" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="264" pc="268438435" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="266" pc="268438448" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="268" pc="268438488" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="270" pc="268438501" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="271" pc="268438517" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="272" pc="268438527" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="273" pc="268438546" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="274" pc="268438568" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="275" pc="268438575" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="277" pc="268438582" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="278" pc="268438593" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="281" pc="268438603" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="283" pc="268438610" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="284" pc="268438621" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="287" pc="268438631" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="289" pc="268438638" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="292" pc="268438681" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="294" pc="268438694" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="297" pc="268438740" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="299" pc="268438770" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="303" pc="268438800" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="304" pc="268438814" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="308" pc="268438841" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="310" pc="268438854" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="314" pc="268438884" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="317" pc="268438908" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="319" pc="268438937" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="320" pc="268438950" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="324" pc="268438969" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="325" pc="268438982" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="328" pc="268439001" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="329" pc="268439030" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="332" pc="268439061" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="333" pc="268439083" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="335" pc="268439117" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="336" pc="268439139" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="337" pc="268439139" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="338" pc="268439170" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="341" pc="268439229" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="346" pc="268439273" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="348" pc="268439342" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="349" pc="268439358" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="350" pc="268439392" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="7" lineNum="352" pc="268439405" symbol="compute"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="358" pc="268439416" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="360" pc="268439420" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="361" pc="268439447" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="362" pc="268439467" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="363" pc="268439487" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="366" pc="268439500" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="367" pc="268439520" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="368" pc="268439540" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="372" pc="268439550" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="374" pc="268439569" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="378" pc="268439597" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="380" pc="268439676" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="383" pc="268439755" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="385" pc="268439834" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="394" pc="268439913" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="396" pc="268439992" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="401" pc="268440071" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="402" pc="268440090" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="402" pc="268440104" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="403" pc="268440117" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="403" pc="268440137" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="405" pc="268440156" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="406" pc="268440175" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="406" pc="268440189" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="407" pc="268440202" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="407" pc="268440222" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="409" pc="268440241" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="410" pc="268440260" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="410" pc="268440274" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="411" pc="268440287" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="411" pc="268440307" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="413" pc="268440326" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="414" pc="268440345" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="414" pc="268440359" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="415" pc="268440372" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="415" pc="268440392" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="422" pc="268440411" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="423" pc="268440441" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="424" pc="268440464" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="425" pc="268440489" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="429" pc="268440508" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="430" pc="268440542" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="434" pc="268440621" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="437" pc="268440714" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="441" pc="268440784" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="445" pc="268440854" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="449" pc="268440924" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="454" pc="268440994" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="455" pc="268441007" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="460" pc="268441103" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="461" pc="268441116" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="467" pc="268441212" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="471" pc="268441291" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="474" pc="268441370" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="478" pc="268441449" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="479" pc="268441460" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="480" pc="268441460" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="482" pc="268441460" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="483" pc="268441485" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="486" pc="268441507" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="487" pc="268441511" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="487" pc="268441522" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="488" pc="268441535" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="491" pc="268441539" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="492" pc="268441553" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="495" pc="268441587" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="497" pc="268441627" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="499" pc="268441703" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="501" pc="268441731" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="502" pc="268441738" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="503" pc="268441751" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="503" pc="268441768" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="505" pc="268441778" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="508" pc="268441868" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="509" pc="268441882" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="512" pc="268441916" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="514" pc="268441956" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="516" pc="268442055" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="521" pc="268442089" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="522" pc="268442096" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="523" pc="268442109" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="523" pc="268442126" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="524" pc="268442136" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="531" pc="268442229" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="535" pc="268442308" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="536" pc="268442325" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="538" pc="268442424" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="542" pc="268442497" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="544" pc="268442599" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="546" pc="268442669" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="547" pc="268442683" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="548" pc="268442700" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="555" pc="268442716" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="558" pc="268442809" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="570" pc="268442902" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="571" pc="268442915" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="577" pc="268443011" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="580" pc="268443081" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="586" pc="268443151" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="587" pc="268443158" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="589" pc="268443191" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="590" pc="268443216" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="591" pc="268443235" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="591" pc="268443252" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="594" pc="268443268" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="597" pc="268443320" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="598" pc="268443352" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="600" pc="268443384" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="601" pc="268443416" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="605" pc="268443448" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="606" pc="268443467" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="606" pc="268443478" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="607" pc="268443488" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="607" pc="268443508" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="610" pc="268443527" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="612" pc="268443624" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="615" pc="268443687" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="616" pc="268443709" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="619" pc="268443779" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="631" pc="268443910" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="633" pc="268443938" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="634" pc="268443991" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="635" pc="268444062" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="636" pc="268444115" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="638" pc="268444192" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="643" pc="268444232" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="644" pc="268444264" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="645" pc="268444296" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="646" pc="268444328" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="651" pc="268444360" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="652" pc="268444392" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="653" pc="268444424" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="654" pc="268444456" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="657" pc="268444488" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="658" pc="268444520" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="659" pc="268444552" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="661" pc="268444584" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="662" pc="268444616" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="670" pc="268444648" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="8" lineNum="673" pc="268444662" symbol="onUpdate"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="9" lineNum="682" pc="268444685" symbol="onTimerStart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="9" lineNum="683" pc="268444689" symbol="onTimerStart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="686" pc="268444700" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="687" pc="268444704" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="688" pc="268444704" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="690" pc="268444704" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="691" pc="268444715" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="692" pc="268444722" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="693" pc="268444729" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="696" pc="268444757" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="697" pc="268444764" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="698" pc="268444771" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="699" pc="268444782" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="702" pc="268444804" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="706" pc="268444829" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="707" pc="268444857" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="708" pc="268444884" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="709" pc="268444911" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="710" pc="268444938" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="711" pc="268444965" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="712" pc="268444992" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="713" pc="268445019" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="714" pc="268445046" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="10" lineNum="715" pc="268445073" symbol="drawChart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="722" pc="268445101" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="723" pc="268445105" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="724" pc="268445105" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="727" pc="268445105" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="728" pc="268445112" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="732" pc="268445119" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="733" pc="268445126" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="734" pc="268445133" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="735" pc="268445140" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="736" pc="268445147" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="737" pc="268445154" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="737" pc="268445168" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="739" pc="268445178" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="740" pc="268445207" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="741" pc="268445214" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="741" pc="268445225" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="742" pc="268445235" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="743" pc="268445242" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="745" pc="268445252" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="746" pc="268445281" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="747" pc="268445288" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="747" pc="268445299" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="748" pc="268445309" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="749" pc="268445316" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="752" pc="268445326" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="756" pc="268445372" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="757" pc="268445421" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="757" pc="268445432" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="759" pc="268445442" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="762" pc="268445490" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="763" pc="268445518" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="767" pc="268445536" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="768" pc="268445555" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="769" pc="268445580" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="770" pc="268445597" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="771" pc="268445607" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="774" pc="268445647" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="777" pc="268445671" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="778" pc="268445682" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="779" pc="268445692" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="780" pc="268445729" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="780" pc="268445761" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="781" pc="268445767" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="11" lineNum="785" pc="268445851" symbol="drawPower"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="12" lineNum="790" pc="268445892" symbol="drawPowerArc"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="12" lineNum="791" pc="268445896" symbol="drawPowerArc"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="12" lineNum="792" pc="268445903" symbol="drawPowerArc"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="12" lineNum="793" pc="268445910" symbol="drawPowerArc"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="12" lineNum="794" pc="268445917" symbol="drawPowerArc"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="12" lineNum="795" pc="268445934" symbol="drawPowerArc"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="12" lineNum="810" pc="268445970" symbol="drawPowerArc"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="814" pc="268445988" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="815" pc="268445992" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="816" pc="268446043" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="817" pc="268446073" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="820" pc="268446099" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="821" pc="268446129" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="835" pc="268446158" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="836" pc="268446177" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="837" pc="268446202" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="839" pc="268446227" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="844" pc="268446249" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="846" pc="268446249" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="847" pc="268446307" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="848" pc="268446328" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="853" pc="268446397" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="858" pc="268446422" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="859" pc="268446439" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="862" pc="268446488" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="865" pc="268446501" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="866" pc="268446547" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="868" pc="268446590" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="869" pc="268446603" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="871" pc="268446616" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="13" lineNum="872" pc="268446636" symbol="calcGradevSpeed"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="877" pc="268446653" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="879" pc="268446657" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="880" pc="268446664" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="885" pc="268446675" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="887" pc="268446695" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="890" pc="268446711" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="892" pc="268446730" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="894" pc="268446750" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="896" pc="268446757" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="898" pc="268446793" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="901" pc="268446822" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="904" pc="268446835" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="905" pc="268446861" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="906" pc="268446880" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="907" pc="268446902" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="908" pc="268446921" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="911" pc="268446947" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="915" pc="268446954" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="918" pc="268446961" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="919" pc="268446983" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="14" lineNum="923" pc="268447008" symbol="calcNP"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="926" pc="268447012" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="928" pc="268447016" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="930" pc="268447019" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="932" pc="268447039" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="935" pc="268447055" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="937" pc="268447074" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="939" pc="268447094" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="941" pc="268447101" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="943" pc="268447137" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="945" pc="268447166" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="946" pc="268447179" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="952" pc="268447186" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="955" pc="268447193" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="956" pc="268447215" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="15" lineNum="958" pc="268447237" symbol="calc5sPwr"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="966" pc="268447241" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="967" pc="268447245" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="968" pc="268447285" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="970" pc="268447317" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="971" pc="268447328" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="972" pc="268447368" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="973" pc="268447400" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="977" pc="268447443" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="977" pc="268447468" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="978" pc="268447503" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="978" pc="268447528" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="979" pc="268447563" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="979" pc="268447588" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="980" pc="268447623" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="980" pc="268447648" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="981" pc="268447683" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="981" pc="268447708" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="982" pc="268447743" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="982" pc="268447768" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="983" pc="268447803" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="983" pc="268447828" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="984" pc="268447863" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="984" pc="268447888" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="985" pc="268447923" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="985" pc="268447934" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="16" lineNum="989" pc="268447969" symbol="drawBat"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="17" lineNum="993" pc="268448002" symbol="drawArrow"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="17" lineNum="994" pc="268448006" symbol="drawArrow"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="17" lineNum="995" pc="268448023" symbol="drawArrow"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="17" lineNum="995" pc="268448034" symbol="drawArrow"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="17" lineNum="996" pc="268448073" symbol="drawArrow"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="17" lineNum="998" pc="268448112" symbol="drawArrow"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="17" lineNum="999" pc="268448129" symbol="drawArrow"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="17" lineNum="999" pc="268448140" symbol="drawArrow"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="17" lineNum="1000" pc="268448179" symbol="drawArrow"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1006" pc="268448219" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1007" pc="268448223" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1008" pc="268448230" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1009" pc="268448237" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1010" pc="268448244" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1011" pc="268448251" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1012" pc="268448258" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1013" pc="268448265" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1015" pc="268448272" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1015" pc="268448289" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1016" pc="268448305" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1019" pc="268448315" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1022" pc="268448326" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1022" pc="268448343" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1023" pc="268448359" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1025" pc="268448369" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1026" pc="268448376" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1026" pc="268448387" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1029" pc="268448397" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1029" pc="268448434" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1030" pc="268448467" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1030" pc="268448504" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1031" pc="268448537" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1031" pc="268448580" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1032" pc="268448613" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1032" pc="268448656" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1033" pc="268448689" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1033" pc="268448732" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1034" pc="268448765" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1034" pc="268448808" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1035" pc="268448841" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1035" pc="268448884" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1036" pc="268448917" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1036" pc="268448960" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1042" pc="268448996" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1043" pc="268449003" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1043" pc="268449040" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1044" pc="268449073" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1044" pc="268449110" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1045" pc="268449143" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1045" pc="268449186" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1046" pc="268449219" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1046" pc="268449262" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1047" pc="268449295" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1047" pc="268449338" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1048" pc="268449371" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1048" pc="268449414" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1049" pc="268449447" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1049" pc="268449490" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1050" pc="268449523" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="1050" pc="268449566" symbol="drawPointer"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="46" pc="268451675" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="47" pc="268451692" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="73" pc="268451709" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="77" pc="268451853" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="78" pc="268451971" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="80" pc="268451985" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="81" pc="268451999" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="91" pc="268452013" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="92" pc="268452027" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="93" pc="268452041" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530View.mc" id="18" lineNum="106" pc="268452094" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530Background.mc" id="20" lineNum="9" pc="268449600" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530Background.mc" id="20" lineNum="10" pc="268449604" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530Background.mc" id="20" lineNum="14" pc="268449625" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530Background.mc" id="21" lineNum="17" pc="268449646" symbol="setColor"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530Background.mc" id="21" lineNum="18" pc="268449650" symbol="setColor"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530Background.mc" id="22" lineNum="21" pc="268449661" symbol="draw"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530Background.mc" id="22" lineNum="22" pc="268449665" symbol="draw"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530Background.mc" id="22" lineNum="23" pc="268449697" symbol="draw"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530App.mc" id="24" lineNum="5" pc="268449710" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530App.mc" id="24" lineNum="6" pc="268449714" symbol="initialize"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530App.mc" id="25" lineNum="10" pc="268449733" symbol="onStart"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530App.mc" id="26" lineNum="14" pc="268449738" symbol="onStop"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530App.mc" id="27" lineNum="18" pc="268449743" symbol="getInitialView"/>
+        <entry filename="/Users/d050003/Documents/workspace/DataFieldPowerEdge530/source/DataFieldPowerEdge530App.mc" id="27" lineNum="19" pc="268449747" symbol="getInitialView"/>
+        <entry filename="Rez" id="33" lineNum="40" pc="268449785" symbol="MainLayout"/>
+        <entry filename="Rez" id="33" lineNum="42" pc="268449797" symbol="MainLayout"/>
+        <entry filename="Rez" id="33" lineNum="43" pc="268449810" symbol="MainLayout"/>
+        <entry filename="Rez" id="33" lineNum="45" pc="268449823" symbol="MainLayout"/>
+        <entry filename="Rez" id="33" lineNum="46" pc="268449847" symbol="MainLayout"/>
+        <entry filename="Rez" id="33" lineNum="47" pc="268450010" symbol="MainLayout"/>
+        <entry filename="Rez" id="33" lineNum="49" pc="268450173" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="58" pc="268450211" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="34" lineNum="61" pc="268450223" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="34" lineNum="62" pc="268450247" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="34" lineNum="63" pc="268450380" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="34" lineNum="65" pc="268450513" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="35" lineNum="74" pc="268450551" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="35" lineNum="77" pc="268450563" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="35" lineNum="78" pc="268450587" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="35" lineNum="79" pc="268450720" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="35" lineNum="81" pc="268450853" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="36" lineNum="90" pc="268450891" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="36" lineNum="93" pc="268450903" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="36" lineNum="94" pc="268450927" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="36" lineNum="95" pc="268451060" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="36" lineNum="97" pc="268451193" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="37" lineNum="106" pc="268451231" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="37" lineNum="109" pc="268451243" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="37" lineNum="110" pc="268451267" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="37" lineNum="111" pc="268451400" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="37" lineNum="113" pc="268451533" symbol="BottomRightLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="103" symbol="cad_range"/>
+        <entry field="true" id="52" symbol="cad"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="58" symbol="aspd"/>
+        <entry field="true" id="72" symbol="altgain"/>
+        <entry field="true" id="76" symbol="igh"/>
+        <entry field="true" id="37" symbol="pfeil2_w_180"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="106" symbol="pfeil_r"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="113" symbol="paused"/>
+        <entry id="39" method="true" symbol="MainLayout"/>
+        <entry field="true" id="50" symbol="timer"/>
+        <entry field="true" id="90" symbol="normalisedCount"/>
+        <entry field="true" id="89" symbol="wattsToThe4Total"/>
+        <entry field="true" id="107" symbol="pointer"/>
+        <entry id="123" method="true" symbol="drawArrow"/>
+        <entry field="true" id="62" symbol="batterie"/>
+        <entry field="true" id="99" symbol="col_for_pwr"/>
+        <entry field="true" id="68" symbol="activityStarted"/>
+        <entry field="true" id="81" symbol="powerActual"/>
+        <entry field="true" id="60" symbol="hgt"/>
+        <entry field="true" id="63" symbol="dunits"/>
+        <entry field="true" id="35" symbol="pfeil2_w_90"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="56" symbol="hdg"/>
+        <entry field="true" id="91" symbol="rollingAveragePeriod5"/>
+        <entry id="120" method="true" symbol="calcNP"/>
+        <entry field="true" id="97" symbol="colors_hr"/>
+        <entry field="true" id="13" symbol="pfeil"/>
+        <entry id="8389747" method="true" symbol="onTimerStart"/>
+        <entry id="10" object="true" symbol="DataFieldPowerEdge530App"/>
+        <entry id="8388634" module="true" symbol="Ant"/>
+        <entry field="true" id="47" symbol="AppName"/>
+        <entry id="124" method="true" symbol="drawPointer"/>
+        <entry field="true" id="84" symbol="torqueEffectR"/>
+        <entry field="true" id="96" symbol="hr_level"/>
+        <entry field="true" id="83" symbol="torqueEffectL"/>
+        <entry id="8389749" method="true" symbol="onTimerPause"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry field="true" id="59" symbol="ahr"/>
+        <entry field="true" id="85" symbol="rollingAveragePeriod"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="118" method="true" symbol="drawPowerArc"/>
+        <entry id="122" method="true" symbol="drawBat"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="8389138" symbol="label"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="94" symbol="initialCount5"/>
+        <entry field="true" id="98" symbol="colors_pwr"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="112" symbol="backgrWhite"/>
+        <entry field="true" id="82" symbol="powerBalance"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry field="true" id="95" symbol="power_level"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="61" symbol="np"/>
+        <entry field="true" id="51" symbol="spd"/>
+        <entry field="true" id="57" symbol="bear"/>
+        <entry field="true" id="102" symbol="pwr_range"/>
+        <entry field="true" id="46" symbol="ftp"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="49" symbol="time"/>
+        <entry field="true" id="115" symbol="counterPowBal"/>
+        <entry field="true" id="55" symbol="hr"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry field="true" id="114" symbol="powBalAvg"/>
+        <entry field="true" id="73" symbol="previousheight"/>
+        <entry id="8389131" method="true" symbol="setColor"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="8388911" symbol="distance"/>
+        <entry field="true" id="87" symbol="poulationCount"/>
+        <entry field="true" id="21" symbol="pfeil7"/>
+        <entry field="true" id="20" symbol="pfeil6"/>
+        <entry field="true" id="19" symbol="pfeil5"/>
+        <entry field="true" id="18" symbol="pfeil4"/>
+        <entry field="true" id="17" symbol="pfeil3"/>
+        <entry field="true" id="16" symbol="pfeil2"/>
+        <entry field="true" id="15" symbol="pfeil1"/>
+        <entry field="true" id="14" symbol="pfeil0"/>
+        <entry field="true" id="70" symbol="vSpeed"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="108" symbol="timeNow"/>
+        <entry field="true" id="65" symbol="counter_disp_grade_vspd"/>
+        <entry id="40" method="true" symbol="TopLeftLayout"/>
+        <entry field="true" id="53" symbol="acad"/>
+        <entry id="116" method="true" symbol="drawChart"/>
+        <entry field="true" id="75" symbol="speed_over_time"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="109" symbol="navDistance"/>
+        <entry field="true" id="74" symbol="alt_over_time"/>
+        <entry id="42" method="true" symbol="BottomLeftLayout"/>
+        <entry id="43" method="true" symbol="BottomRightLayout"/>
+        <entry field="true" id="45" symbol="maxHR"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="79" symbol="formatierung4"/>
+        <entry field="true" id="78" symbol="formatierung3"/>
+        <entry field="true" id="77" symbol="formatierung2"/>
+        <entry field="true" id="8389130" symbol="mColor"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="48" symbol="counter"/>
+        <entry field="true" id="38" symbol="LauncherIcon"/>
+        <entry field="true" id="80" symbol="powerListener"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8388643" module="true" symbol="Sensor"/>
+        <entry field="true" id="110" symbol="navETTA"/>
+        <entry field="true" id="69" symbol="grade"/>
+        <entry id="119" method="true" symbol="calcGradevSpeed"/>
+        <entry field="true" id="104" symbol="spd_range"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="66" symbol="fontColor"/>
+        <entry field="true" id="64" symbol="eunits"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="8388719" symbol="dst"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="111" symbol="navState"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="9" object="true" symbol="DataFieldPowerEdge530View"/>
+        <entry field="true" id="88" symbol="initialCount"/>
+        <entry field="true" id="105" symbol="bal_pwr_range"/>
+        <entry field="true" id="32" symbol="pfeil2_270"/>
+        <entry field="true" id="34" symbol="pfeil2_w_0"/>
+        <entry field="true" id="100" symbol="col_for_hr"/>
+        <entry field="true" id="93" symbol="poulationCount5"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="67" symbol="fontColorBackground"/>
+        <entry field="true" id="54" symbol="pwr"/>
+        <entry field="true" id="30" symbol="pfeil2_0"/>
+        <entry field="true" id="92" symbol="rollingAverageArray5"/>
+        <entry field="true" id="71" symbol="counter2"/>
+        <entry field="true" id="101" symbol="hr_range"/>
+        <entry id="117" method="true" symbol="drawPower"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry field="true" id="36" symbol="pfeil2_w_270"/>
+        <entry id="121" method="true" symbol="calc5sPwr"/>
+        <entry id="8389750" method="true" symbol="onTimerResume"/>
+        <entry field="true" id="86" symbol="rollingAverageArray"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="33" symbol="pfeil2_180"/>
+        <entry field="true" id="31" symbol="pfeil2_90"/>
+        <entry field="true" id="44" symbol="rollAvg"/>
+        <entry field="true" id="29" symbol="pfeilr7"/>
+        <entry field="true" id="28" symbol="pfeilr6"/>
+        <entry field="true" id="27" symbol="pfeilr5"/>
+        <entry field="true" id="26" symbol="pfeilr4"/>
+        <entry field="true" id="25" symbol="pfeilr3"/>
+        <entry field="true" id="24" symbol="pfeilr2"/>
+        <entry field="true" id="23" symbol="pfeilr1"/>
+        <entry field="true" id="22" symbol="pfeilr0"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="41" method="true" symbol="TopRightLayout"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268437929" name="mySetting2" stackId="2" startPc="268435460"/>
+        <entry endPc="268437929" name="mySetting1" stackId="1" startPc="268435460"/>
+        <entry endPc="268437929" name="mySetting3" stackId="3" startPc="268435460"/>
+        <entry arg="true" endPc="268437935" name="dc" stackId="1" startPc="268437930"/>
+        <entry endPc="268438678" name="stunde" stackId="6" startPc="268438501"/>
+        <entry endPc="268438678" name="sekunde_null" stackId="8" startPc="268438501"/>
+        <entry endPc="268438678" name="minutes" stackId="5" startPc="268438501"/>
+        <entry endPc="268438678" name="dauer" stackId="3" startPc="268438501"/>
+        <entry endPc="268438678" name="minute_null" stackId="7" startPc="268438501"/>
+        <entry endPc="268438678" name="seconds" stackId="4" startPc="268438501"/>
+        <entry endPc="268439415" name="min" stackId="2" startPc="268437969"/>
+        <entry arg="true" endPc="268439416" name="info" stackId="1" startPc="268437965"/>
+        <entry endPc="268440508" name="i" stackId="6" startPc="268440441"/>
+        <entry endPc="268442086" name="tempETTAm" stackId="8" startPc="268441460"/>
+        <entry endPc="268442086" name="hh" stackId="9" startPc="268441460"/>
+        <entry endPc="268442086" name="formatierung" stackId="11" startPc="268441460"/>
+        <entry endPc="268442086" name="tempETTAh" stackId="7" startPc="268441460"/>
+        <entry endPc="268442086" name="mm" stackId="10" startPc="268441460"/>
+        <entry endPc="268442229" name="formatierung" stackId="12" startPc="268442089"/>
+        <entry endPc="268443684" name="balanceDelta" stackId="14" startPc="268443191"/>
+        <entry endPc="268444684" name="hr_delta" stackId="4" startPc="268439420"/>
+        <entry endPc="268444684" name="spd_delta" stackId="2" startPc="268439420"/>
+        <entry endPc="268444684" name="powerBal3sAvg" stackId="13" startPc="268439420"/>
+        <entry endPc="268444684" name="pwr_delta" stackId="5" startPc="268439420"/>
+        <entry endPc="268444684" name="cad_delta" stackId="3" startPc="268439420"/>
+        <entry arg="true" endPc="268444685" name="dc" stackId="1" startPc="268439416"/>
+        <entry endPc="268445100" name="end" stackId="9" startPc="268444704"/>
+        <entry endPc="268445100" name="start" stackId="8" startPc="268444704"/>
+        <entry arg="true" endPc="268445101" name="x" stackId="2" startPc="268444700"/>
+        <entry arg="true" endPc="268445101" name="dc" stackId="1" startPc="268444700"/>
+        <entry arg="true" endPc="268445101" name="col" stackId="7" startPc="268444700"/>
+        <entry arg="true" endPc="268445101" name="right" stackId="5" startPc="268444700"/>
+        <entry arg="true" endPc="268445101" name="direction" stackId="6" startPc="268444700"/>
+        <entry arg="true" endPc="268445101" name="level" stackId="4" startPc="268444700"/>
+        <entry arg="true" endPc="268445101" name="y" stackId="3" startPc="268444700"/>
+        <entry endPc="268445891" name="delta_y1" stackId="7" startPc="268445105"/>
+        <entry endPc="268445891" name="start" stackId="3" startPc="268445105"/>
+        <entry endPc="268445891" name="x1" stackId="5" startPc="268445105"/>
+        <entry endPc="268445891" name="end" stackId="4" startPc="268445105"/>
+        <entry endPc="268445891" name="pfeilIndex" stackId="9" startPc="268445105"/>
+        <entry endPc="268445891" name="i" stackId="11" startPc="268445105"/>
+        <entry endPc="268445891" name="y1" stackId="6" startPc="268445105"/>
+        <entry endPc="268445891" name="power_start" stackId="10" startPc="268445105"/>
+        <entry endPc="268445891" name="delta_y2" stackId="8" startPc="268445105"/>
+        <entry arg="true" endPc="268445892" name="dc" stackId="1" startPc="268445101"/>
+        <entry arg="true" endPc="268445892" name="col" stackId="2" startPc="268445101"/>
+        <entry endPc="268445987" name="radius" stackId="6" startPc="268445896"/>
+        <entry endPc="268445987" name="x" stackId="4" startPc="268445896"/>
+        <entry endPc="268445987" name="y" stackId="5" startPc="268445896"/>
+        <entry arg="true" endPc="268445988" name="end" stackId="3" startPc="268445892"/>
+        <entry arg="true" endPc="268445988" name="dc" stackId="1" startPc="268445892"/>
+        <entry arg="true" endPc="268445988" name="start" stackId="2" startPc="268445892"/>
+        <entry endPc="268446099" name="i" stackId="3" startPc="268446073"/>
+        <entry endPc="268446155" name="i" stackId="4" startPc="268446129"/>
+        <entry endPc="268446387" name="i" stackId="6" startPc="268446328"/>
+        <entry arg="true" endPc="268446653" name="curAlt" stackId="2" startPc="268445988"/>
+        <entry arg="true" endPc="268446653" name="curSpd" stackId="1" startPc="268445988"/>
+        <entry endPc="268446822" name="i" stackId="4" startPc="268446793"/>
+        <entry endPc="268446951" name="rollingAveragePower" stackId="5" startPc="268446750"/>
+        <entry endPc="268446951" name="wattsToThe4" stackId="6" startPc="268446750"/>
+        <entry endPc="268446951" name="avr2" stackId="7" startPc="268446750"/>
+        <entry endPc="268446951" name="normalisedPower" stackId="8" startPc="268446750"/>
+        <entry endPc="268446951" name="totalMean" stackId="3" startPc="268446750"/>
+        <entry endPc="268447011" name="value_picked" stackId="2" startPc="268446657"/>
+        <entry arg="true" endPc="268447012" name="currentPower" stackId="1" startPc="268446653"/>
+        <entry endPc="268447166" name="i" stackId="4" startPc="268447137"/>
+        <entry endPc="268447183" name="rollingAveragePower5" stackId="5" startPc="268447094"/>
+        <entry endPc="268447183" name="totalMean" stackId="3" startPc="268447094"/>
+        <entry endPc="268447240" name="value_picked" stackId="2" startPc="268447016"/>
+        <entry arg="true" endPc="268447241" name="currentPower" stackId="1" startPc="268447012"/>
+        <entry arg="true" endPc="268448002" name="context" stackId="1" startPc="268447241"/>
+        <entry arg="true" endPc="268448002" name="level" stackId="2" startPc="268447241"/>
+        <entry arg="true" endPc="268448219" name="context" stackId="1" startPc="268448002"/>
+        <entry endPc="268449599" name="x" stackId="3" startPc="268448223"/>
+        <entry endPc="268449599" name="adjBear" stackId="6" startPc="268448223"/>
+        <entry endPc="268449599" name="adjHdg" stackId="5" startPc="268448223"/>
+        <entry endPc="268449599" name="direction" stackId="7" startPc="268448223"/>
+        <entry endPc="268449599" name="pi2" stackId="2" startPc="268448223"/>
+        <entry endPc="268449599" name="navDir" stackId="8" startPc="268448223"/>
+        <entry endPc="268449599" name="y" stackId="4" startPc="268448223"/>
+        <entry arg="true" endPc="268449600" name="dc" stackId="1" startPc="268448219"/>
+        <entry endPc="268449645" name="dictionary" stackId="1" startPc="268449604"/>
+        <entry arg="true" endPc="268449661" name="color" stackId="1" startPc="268449646"/>
+        <entry arg="true" endPc="268449710" name="dc" stackId="1" startPc="268449661"/>
+        <entry arg="true" endPc="268449738" name="state" stackId="1" startPc="268449733"/>
+        <entry arg="true" endPc="268449743" name="state" stackId="1" startPc="268449738"/>
+        <entry endPc="268450210" name="rez_cmp_local_text_value" stackId="6" startPc="268449797"/>
+        <entry endPc="268450210" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268449797"/>
+        <entry endPc="268450210" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268449797"/>
+        <entry endPc="268450210" name="rez_cmp_local_custom_drawable_55886863311999820681" stackId="4" startPc="268449797"/>
+        <entry endPc="268450210" name="rez_cmp_local_text_label" stackId="5" startPc="268449797"/>
+        <entry arg="true" endPc="268450211" name="dc" stackId="1" startPc="268449785"/>
+        <entry endPc="268450550" name="rez_cmp_local_text_value" stackId="4" startPc="268450223"/>
+        <entry endPc="268450550" name="rez_cmp_local_custom_drawable_12825832785935224931" stackId="2" startPc="268450223"/>
+        <entry endPc="268450550" name="rez_cmp_local_text_label" stackId="3" startPc="268450223"/>
+        <entry arg="true" endPc="268450551" name="dc" stackId="1" startPc="268450211"/>
+        <entry endPc="268450890" name="rez_cmp_local_text_value" stackId="4" startPc="268450563"/>
+        <entry endPc="268450890" name="rez_cmp_local_custom_drawable_18011734691925222464" stackId="2" startPc="268450563"/>
+        <entry endPc="268450890" name="rez_cmp_local_text_label" stackId="3" startPc="268450563"/>
+        <entry arg="true" endPc="268450891" name="dc" stackId="1" startPc="268450551"/>
+        <entry endPc="268451230" name="rez_cmp_local_text_value" stackId="4" startPc="268450903"/>
+        <entry endPc="268451230" name="rez_cmp_local_text_label" stackId="3" startPc="268450903"/>
+        <entry endPc="268451230" name="rez_cmp_local_custom_drawable_11024872571344815380" stackId="2" startPc="268450903"/>
+        <entry arg="true" endPc="268451231" name="dc" stackId="1" startPc="268450891"/>
+        <entry endPc="268451570" name="rez_cmp_local_text_value" stackId="4" startPc="268451243"/>
+        <entry endPc="268451570" name="rez_cmp_local_custom_drawable_21138854961698446908" stackId="2" startPc="268451243"/>
+        <entry endPc="268451570" name="rez_cmp_local_text_label" stackId="3" startPc="268451243"/>
+        <entry arg="true" endPc="268451571" name="dc" stackId="1" startPc="268451231"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="158" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="229" parentId="globals" symbolId="DataFieldPowerEdge530App" type="class"/>
+        <dataEntry offset="300" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="379" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="618" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="649" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="680" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="751" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="782" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="845" parentId="globals" symbolId="DataFieldPowerEdge530View" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="DataFieldPowerEdge530View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="DataFieldPowerEdge530View">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerPause" parent="DataFieldPowerEdge530View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerResume" parent="DataFieldPowerEdge530View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="compute" parent="DataFieldPowerEdge530View">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="DataFieldPowerEdge530View">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerStart" parent="DataFieldPowerEdge530View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawChart" parent="DataFieldPowerEdge530View">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="level"/>
+            <param id="right"/>
+            <param id="direction"/>
+            <param id="col"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawPower" parent="DataFieldPowerEdge530View">
+            <param id="dc"/>
+            <param id="col"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawPowerArc" parent="DataFieldPowerEdge530View">
+            <param id="dc"/>
+            <param id="start"/>
+            <param id="end"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="calcGradevSpeed" parent="DataFieldPowerEdge530View">
+            <param id="curSpd"/>
+            <param id="curAlt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="calcNP" parent="DataFieldPowerEdge530View">
+            <param id="currentPower"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="calc5sPwr" parent="DataFieldPowerEdge530View">
+            <param id="currentPower"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBat" parent="DataFieldPowerEdge530View">
+            <param id="context"/>
+            <param id="level"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawArrow" parent="DataFieldPowerEdge530View">
+            <param id="context"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawPointer" parent="DataFieldPowerEdge530View">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setColor" parent="Background">
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DataFieldPowerEdge530App">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="DataFieldPowerEdge530App">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="DataFieldPowerEdge530App">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="DataFieldPowerEdge530App">
+            <documentation>
+                <![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="TopLeftLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="TopRightLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="BottomLeftLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="BottomRightLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

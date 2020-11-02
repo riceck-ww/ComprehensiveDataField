@@ -1,0 +1,8 @@
+<strings>
+    <string id="AppName">DataFieldPowerEdgeNew</string>
+
+    <string id="maxHR">Max HR</string>
+    <string id="ftp">FTP</string>
+    <string id="rollAvg">Rolling avg (s)</string>
+    
+</strings>

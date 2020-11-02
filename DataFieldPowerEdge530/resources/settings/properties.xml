@@ -1,0 +1,6 @@
+ <properties>
+    <property id="FTP" type="number">265</property>
+    <property id="maxHR" type="number">190</property>
+    <property id="rollAvg" type="number">30</property>
+   
+</properties>
